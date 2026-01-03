@@ -1,0 +1,7 @@
+{
+  "name": "Jornada Bíblica",
+  "description": "Uma plataforma completa de gestão de leitura bíblica anual com devocionais gerados por IA, gamificação e acompanhamento de progresso.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
